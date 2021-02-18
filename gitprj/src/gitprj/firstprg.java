@@ -1,5 +1,5 @@
 package gitprj;
 
-public class firstprg {
+public class firstprg {hnt
 
 }
